@@ -1,7 +1,7 @@
 # Bull-Spanners
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<meta name="google-site-verification" content="5T1j0ZYQdES2-4jim-IJIDImGD_VkE6zBhQwoniwL0k" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Bull Spanners Garage</title>
