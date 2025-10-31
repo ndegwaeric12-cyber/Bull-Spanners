@@ -140,7 +140,7 @@
 
   <header>
     <h1>Bull Spanners Garage</h1>
-    <p>Myeri, Mukurweini — 100m from Wakulima Dairy</p>
+    <p>Nyeri, Mukurweini — 100m from Wakulima Dairy</p>
     <p>📞 Call/WhatsApp: 0723390348</p>
   </header>
 
@@ -189,7 +189,7 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>📍 Myeri, Mukurweini — 100m from Wakulima Dairy</p>
+    <p>📍 Nyeri, Mukurweini — 100m from Wakulima Dairy</p>
     <p>📞 <a href="tel:+254723390348">0723390348</a></p>
     <p>📧 Email: bullspanners@example.com</p>
   </section>
